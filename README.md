@@ -22,7 +22,9 @@ The UI is clean, responsive, and designed with Flutter's `StatelessWidget`, `Ima
 /assets
 
  ├── logo.png # University logo shown in the AppBar 
+ 
  ├── PP photo.jpg # Passport size photo of the student
+ 
  └── barcode.png # Repeated barcode image
 
 /lib
