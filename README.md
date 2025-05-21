@@ -21,15 +21,13 @@ The UI is clean, responsive, and designed with Flutter's `StatelessWidget`, `Ima
 ## 📁 Folder Structure
 /assets
 ├── logo.png # University logo shown in the AppBar
-
 ├── PP photo.jpg # Passport size photo of the student
-
 └── barcode.png # Repeated barcode image
 
 /lib
 └── main.dart # Main app source code
 
-📌 Features Learned
+## 📌 Features Learned
 Scaffold, AppBar, Padding, Center, Column, Row
 
 Handling images with Image.asset
@@ -38,7 +36,7 @@ Customizing layouts and widget alignment
 
 Flutter theming and styling with fonts and colors
 
-📖 Future Improvements
+## 📖 Future Improvements
 Make the ID dynamic using state management (e.g., Provider)
 
 Add download or share functionality for the ID card
