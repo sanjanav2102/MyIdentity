@@ -128,6 +128,18 @@ class MyIDCard extends StatelessWidget {
                   fontSize: 15.0,
                 ),
               ),
+              Align(
+                alignment: Alignment.bottomRight,
+                child: Padding(
+                  padding: const EdgeInsets.only(bottom: 1.005),
+                  child: (Image
+                    (image: AssetImage("assets/signature.png"),
+                  alignment: Alignment(1,-1),
+                  height: 40,
+                  width: 500,
+                    )),
+                ),
+              ),
             ],
           )
         )
