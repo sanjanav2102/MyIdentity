@@ -1,16 +1,52 @@
-# idcard
+# My ID Card - First Flutter Project
 
-A new Flutter project.
+Welcome to **My ID Card**, a Flutter application that represents a digital student ID card. This is my **first Flutter project**, built to explore UI design, layout structures, image handling, and widget styling in Flutter.
 
-## Getting Started
+## 🛠️ Project Overview
 
-This project is a starting point for a Flutter application.
+This app displays a student ID card with the following details:
+- A top `AppBar` with a logo and university information
+- A QR code icon and profile photo
+- Student name and registration number
+- A row of barcode images
+- Course and validity information
 
-A few resources to get you started if this is your first Flutter project:
+The UI is clean, responsive, and designed with Flutter's `StatelessWidget`, `Image.asset`, `Column`, `Row`, and various layout tools.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📷 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="224" alt="id_card_output" src="https://github.com/user-attachments/assets/8c84c0a6-7fe0-4464-973d-e216d23a0244" />
+
+
+## 📁 Folder Structure
+/assets
+
+ ├── logo.png # University logo shown in the AppBar 
+ 
+ ├── PP photo.jpg # Passport size photo of the student
+ 
+ └── barcode.png # Repeated barcode image
+
+/lib
+
+└── main.dart # Main app source code
+
+## 📌 Features Learned
+Scaffold, AppBar, Padding, Center, Column, Row
+
+Handling images with Image.asset
+
+Customizing layouts and widget alignment
+
+Flutter theming and styling with fonts and colors
+
+## 📖 Future Improvements
+Make the ID dynamic using state management (e.g., Provider)
+
+Add download or share functionality for the ID card
+
+Enable QR scanning or real barcode generation
+
+
+
+
