@@ -15,7 +15,8 @@ The UI is clean, responsive, and designed with Flutter's `StatelessWidget`, `Ima
 
 ## 📷 Screenshots
 
-<img width="224" alt="id_card_output" src="https://github.com/user-attachments/assets/8c84c0a6-7fe0-4464-973d-e216d23a0244" />
+<img width="242" alt="image" src="https://github.com/user-attachments/assets/0fb62e58-f636-4d89-a7be-28311dca39b8" />
+
 
 
 ## 📁 Folder Structure
