@@ -116,14 +116,14 @@ class MyIDCard extends StatelessWidget {
                 }),
               ),
               Text(
-                'B.Tech CSE 2023-2027',
+                'B.Tech CSE 20XX-20XX',
                 style: TextStyle(
                   fontSize: 15.0,
                 ),
               ),
               SizedBox(height: 5),
               Text(
-                'Valid Upto: 31-07-2027',
+                'Valid Upto: DD-MM-YYYY',
                 style: TextStyle(
                   fontSize: 15.0,
                 ),
