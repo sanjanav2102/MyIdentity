@@ -79,7 +79,7 @@ class MyIDCard extends StatelessWidget {
                   child: Image.asset(
                     'assets/PP photo.jpg',
                     height: 270.0,
-                    width: 230.0,
+                    width: 270.0,
                     fit: BoxFit.fill,
                   ),
                 ),
@@ -87,7 +87,7 @@ class MyIDCard extends StatelessWidget {
               SizedBox(height: 5.0,),
               Center(
                 child: Text(
-                 'V.Sanjana',
+                 'NAME',
                   style: TextStyle(
                     fontSize: 28.0,
                     )
@@ -96,7 +96,7 @@ class MyIDCard extends StatelessWidget {
               SizedBox(height:5.0),
               Center(
                 child: Text(
-                  'CB.SC.U4CSE23751',
+                  'XX.XX.XXXXXXXXXX',
                     style: TextStyle(
                     fontSize: 20.0,
                     )
