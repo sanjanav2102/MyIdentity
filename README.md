@@ -15,10 +15,7 @@ The UI is clean, responsive, and designed with Flutter's `StatelessWidget`, `Ima
 
 ## 📷 Screenshots
 
-<img width="206" alt="image" src="https://github.com/user-attachments/assets/954c5567-5107-4cf4-92bb-38bcaa41c935" />
-
-
-
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/60cf4998-2006-4166-939b-bda5ea78caa4" />
 
 ## 📁 Folder Structure
 /assets
