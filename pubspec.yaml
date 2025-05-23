@@ -77,9 +77,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: OpenSans
+    - family: Perpetua
       fonts:
-        - asset: assets/fonts/OpenSans.ttf
+        - asset: assets/fonts/Perpetua Titling Light.TTF
 
   #
   # For details regarding fonts from package dependencies,

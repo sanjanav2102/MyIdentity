@@ -40,9 +40,10 @@ class MyIDCard extends StatelessWidget {
             Text(
               'AMRITA',
               style: TextStyle(
-                fontSize: 50,
+                fontSize: 55,
                 color: Colors.white,
-                fontFamily: 'OpenSans',
+                fontFamily: 'Perpetua',
+                fontWeight: FontWeight.bold,
               ),
             ),
             Text(
@@ -50,7 +51,8 @@ class MyIDCard extends StatelessWidget {
               style: TextStyle(
                 fontSize: 20,
                 color: Colors.white,
-                fontFamily: 'OpenSans',
+                fontWeight: FontWeight.bold,
+                fontFamily: 'Perpetua',
               ),
             ),
             Text(
